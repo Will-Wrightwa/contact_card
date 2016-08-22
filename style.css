@@ -1,1 +1,34 @@
 #wrapper{}
+    form{
+        display: inline-block;
+        width:300px;
+        padding: 5px;
+    }
+input{
+    display: inline-block;
+    width:50%
+}
+h5{
+    display: inline-block;
+    text-align: right;
+    width:40%;
+    padding-right: 5%;
+}
+textarea{
+    margin-bottom: 10px;
+}
+#contacts{
+    display: inline-block;
+    padding:25px;
+    margin-left: 50px;
+    vertical-align: top;
+}
+
+.contact{
+    border: solid black 2px;
+    width: 300px;
+    height: 150px;
+    margin-bottom: 10px;
+    padding:10px;
+    text-align: center;
+}
